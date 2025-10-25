@@ -1,0 +1,4 @@
+[submodule "extern/olimex-kicad"]
+	path = extern/olimex-kicad
+	url = https://github.com/OLIMEX/KiCAD
+	branch = master

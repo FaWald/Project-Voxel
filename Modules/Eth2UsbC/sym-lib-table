@@ -15,4 +15,6 @@
   (lib (name "Olimex_Regulators")(type "KiCad")(uri "${OLIMEX_KICAD_DIR}/KiCAD_Components/Used-In-KiCad_v7/OLIMEX_Regulators.kicad_sym")(options "")(descr "Olimex Regulators"))
   (lib (name "Olimex_Switches")(type "KiCad")(uri "${OLIMEX_KICAD_DIR}/KiCAD_Components/Used-In-KiCad_v7/OLIMEX_Switches.kicad_sym")(options "")(descr "Olimex Switches"))
   (lib (name "Olimex_Transistors")(type "KiCad")(uri "${OLIMEX_KICAD_DIR}/KiCAD_Components/Used-In-KiCad_v7/OLIMEX_Transistors.kicad_sym")(options "")(descr "Olimex Transistors"))
+  (lib (name "C2802072")(type "KiCad")(uri "${CUSTOM_LIB}/C2802072/easyeda2kicad.kicad_sym")(options "")(descr "C2802072 symbol library"))
+  (lib (name "C386757")(type "KiCad")(uri "${CUSTOM_LIB}/C386757/easyeda2kicad.kicad_sym")(options "")(descr "C386757 symbol library"))
 )
